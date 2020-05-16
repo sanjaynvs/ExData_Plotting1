@@ -1,4 +1,4 @@
-#Exploratory Data Analysis - Assignment 1 - Plot !
+#Exploratory Data Analysis - Assignment 1 - Plot 1
 
 #Importing the dataset, with file.choose
 #The subset data (rom the dates 2007-02-01 and 2007-02-02) has been copied to another file. 
